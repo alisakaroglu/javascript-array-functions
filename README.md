@@ -13,4 +13,4 @@ The features of javascript in this repository;
 - .flat() 
 usage is explained.
 
-![](img/fetch-api.png)
+![](img/array-functions.png)
